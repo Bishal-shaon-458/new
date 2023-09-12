@@ -1,0 +1,411 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.game{
+    display: flex;
+    cursor: pointer;
+}
+
+h2{
+    font-size: 35px;
+    margin-left: 20px;
+    margin-top:10px;
+}
+.game img{
+    height: 32px;
+    margin-top: 17px;
+    margin-left: 200px;
+}
+.nev-menu{
+    display: flex;
+    margin-right: 120px;
+
+}
+.hed{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    padding: 15px;
+    box-shadow:1px 0px 3px ;
+}
+.nev-menu a{
+    text-decoration: none;
+    padding: 15px;
+    font-size: 18px;
+    margin-right: 10px;
+}
+a:hover{
+    color: aqua;.
+}
+.icons{
+    display: inline-flex;
+    background-color: #f7f4f4;
+    border-radius: 10px;
+    margin-right: 50px;
+}
+.ri-youtube-fill{
+    color: red;
+    font-size: 29px;
+    margin-top: 10px;
+    margin-right: 8px;
+}
+.ri-tiktok-fill{
+    color: black;
+    font-size: 22px;
+    margin-top: 12px;
+    margin-right: 10px;
+}
+
+/* body */
+.contain h1{
+    font-size: 75px;
+    color: rgb(216, 3, 216);
+}
+.contain h4{
+    font-size: 35px;
+}
+.focus{
+    display:flex;
+    font-size: 17px;
+}
+.download{
+    display: flex;
+    font-size: 17px;
+}
+.download i{
+    color: red;
+}
+.group{
+    display: flex;
+    font-size:17px;
+}
+p{
+    margin-top: 21px;
+}
+.section{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.container{
+    background-image:url(../new/images/Group\ 14.png);
+    padding: 130px 50px 10px 230px;
+    width: 50%;
+}
+.group-15{
+    width: 50%;
+}
+.group-14{
+    height: 520px;
+    width: 600px;
+}
+.sing{
+    background-color: deeppink;
+    padding: 20px;
+    border-radius: 50px;
+    width: 110px;
+    
+    
+}
+.rogue{
+    background-color: rgb(127, 127, 245);
+    padding: 20px;
+    margin-left: 10px;
+    border-radius: 50px;
+    width: 110px;
+}
+.button{
+    display: flex;
+    font-size: 12px;
+    padding: 10px;
+}
+.button p{
+   color: #f7f4f4;
+   font-size: 14px;
+   font-style:bold;
+}
+/* next */
+.pngwing img{
+    height: 380px;
+    width: 700px;
+    margin-left: 200px;
+}
+.know-more{
+    background-color: deeppink;
+    padding: 8px;
+    border-radius: 40px;
+    color: #f7f4f4;
+    height: 45px;
+    width: 160px;
+   margin-left: 68%;
+}
+.section-2{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-image: url(../new/images/Group\ 14.png);
+}
+.gamer{
+    width:50%;
+    /* height: 200px; */
+    text-align: right;
+    padding: 80px 110px 1px 2px;
+    margin-bottom: 40px;
+}
+.gamer h2{
+    color:  rgb(216, 3, 216);
+}
+.gamer p{
+    font-size: 18px;
+    padding: 10px;
+}
+.an-right{
+    margin-left: 100px;
+}
+/* next */
+.online-games{
+    text-align: center;
+}
+.online-games span{
+    color:  rgb(216, 3, 216);"
+}
+.online-games h2{
+    font-size: 45px;
+    margin-top: 29px;
+}
+.online-games p{
+    font-size: 17px;
+
+}
+.section-3{
+    display: flex;
+    width: 100%;
+    
+}
+.section-3 img{
+    height: 310px;
+
+}
+.section-3 p{
+    font-size: 16px;
+    text-align: center;
+}
+.image-list{
+    display:flex;
+    width: 12%;
+    margin-left: 130px;
+}
+.image-list figcaption{
+    font-size: 18px;
+}
+/* next */
+
+.section-4{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.play-instent{
+    background-color: white;
+    width: 50%;
+    text-align: right;
+} 
+.play-instent span{
+    color: rgb(216, 3, 216);
+}
+.play-instent h2{
+    padding: 60px 50px 0px 50px;
+    margin-right: 40px;
+    margin: 100px 40px 20px 250px;
+}
+
+.play-instent p{
+    font-size: 15px;
+    margin-right: 85px;
+    margin: 1px 100px 50px 280px;
+}
+.joind-image{
+    margin-right: 200px;
+    margin-top: 90px;
+    width: 50%;
+}
+.rec-55{
+    height: 470px;
+    width: 490px;
+    margin-left:220px ;
+}
+.rec-66{
+    height: 250px;
+    width: 220px;
+    margin-top: -170px;
+    margin-left: 120px;
+}
+/* next */
+.play-games{
+     background-color:white;
+     padding: 50px 60px 0px 50px;
+     width: 50%;
+     margin-left: 80px;
+}
+.play-games h2{
+    margin:100px 100px 1px 100px ;
+}
+.play-games p{
+    font-size: 15px;
+    margin: 20px 200px 20px 100px;
+}
+.play-games span{
+    color: rgb(216, 3, 216);
+}
+.rec-67{
+    height: 420px;
+    width: 430px;
+    margin-left: 200px;
+}
+.rec-78{
+    height: 220px;
+    width: 210px;
+    margin-top: -140px;
+    margin-left:500px ;
+}
+.section-5{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.joind-image-2{
+    width: 50%;
+}
+ /* next */
+
+ .section-6{
+     background-color:rgb(243, 76, 165);
+     display: inline flex;
+     width: 100%;
+     height: 600px;
+ }
+ .careers {
+     color: aquamarine;
+     width: 50%;
+     margin: 100px 40px 1px 200px;
+ }
+ .careers h1{
+    font-size: 34px;
+ }
+.multimidia{
+    display: flex;
+    color: aquamarine;
+    margin-top: 30px;
+}
+.multimidia h5{
+    font-size: 16px;
+    padding: 6px;
+}
+.multimidia-1{
+
+}
+.multimidia-2{
+    text-align: right;
+    margin-left: 90px;
+}
+.child-4{
+    width: 50%;
+}
+.child-4 img{
+     height:650px ;
+     width: 750px;
+}
+.position{
+    font-size: 18px;
+    color:deeppink;
+    border-radius: 40px;
+    padding-top: 10px;
+    padding-left: 19px;
+}
+.see-all-position{
+    background-color:  #f7f4f4;
+    height: 40px;
+    width: 200px;
+    border-radius: 40px;
+} 
+  /* next */
+
+ .section-7{
+    /* background-color: antiquewhite; */
+    height: 300px;
+    align-items: center;
+    margin: 100px 20px 20px 100px;
+    padding: 80px;
+    gap: 10px;
+ } 
+.rec-11{
+    display:inline flex;
+    background-color:rgb(249, 244, 244);
+    height: 60px;
+    width: 230px;
+    border-radius: 40px;
+    /* margin: 100px 0px 0px 90px; */
+}
+.rec-11 img{
+    margin: 6px 0 0 10px;
+    height: 50px;
+}
+.rec-11 h3{
+    margin: 15px 0 0 10px;
+}  
+.rec-12{
+    border: 2px solid deeppink;
+    color: deeppink;
+}
+/* next */
+
+.game-icon{
+    display: flex;
+    margin-left: 42%;
+}  
+.game-icon img{
+    height: 35px;
+    margin-top: 100px;
+   
+}
+.game-icon h2{
+    color: white;
+    margin-top: 100px;
+}
+/* next */
+.footer{
+    background-color:rgb(17, 17, 54);
+    height: 500px;
+}
+.nev-list{
+    margin-left:28% ;
+}
+.nev-list a{
+    text-decoration: none;
+    padding: 23px;
+    color: white;
+}
+/* next */
+.foot-icons i{
+    padding: 10px;
+    font-size: 30px;
+    color: white;
+}
+.foot-icons{
+    margin-left: 36%;
+}
+.loower{
+    display: inline-flex;
+    margin-left: 30%;
+
+}
+.loower p{
+    color: rgb(183, 178, 178);
+    padding: 19px;
+}
+.last p{
+    color: rgb(146, 142, 142);
+    margin-left: 38%;
+}
